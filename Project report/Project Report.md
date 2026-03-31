@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio
 
-## Name: SWARIT SINGH CHAUHAN  
-## Registration Number: 25BAI10982
-## Branch: CSE (Specialization in AI-ML)  
+## Name: Anirban Bag
+## Registration Number: 25BHI10038
+## Branch: CSE (Health Informatics)  
 ## Year: 1st Year  
 
 ## Course Code: CSE0001  
