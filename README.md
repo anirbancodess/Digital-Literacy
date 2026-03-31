@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio
 
-**Name:** Swarit Singh Chauhan  
-**Registration Number:** 25BAI10982  
-**Branch:** CSE(SPECIALIZATION IN AI-ML
+**Name:** Anirban Bag  
+**Registration Number:** 25BHI10038  
+**Branch:** CSE(Health Informatics)
 **Year:** 1st Year  
 
 ## Project Overview
@@ -29,4 +29,4 @@ I prepared a case study on phishing and made a prevention checklist.
 https://docs.google.com/forms/d/e/1FAIpQLSchYcNd_ExQotGRWVdYC6wD8emt4wwvu21deVZBZIDX37UgBA/viewform?usp=publish-editor
 
 ## Repository Link
-(https://github.com/Swarit-dev-st/DIGITAL-LITERACY)
+https://github.com/anirbancodess/Digital-Literacy.git
